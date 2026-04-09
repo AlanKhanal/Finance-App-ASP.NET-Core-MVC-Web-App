@@ -1,4 +1,4 @@
-Final Result of MVC Basics 
+Result of MVC Basics 
 
 1. Index Page
 <img width="1918" height="1066" alt="image" src="https://github.com/user-attachments/assets/2f3ba599-c55d-472e-a907-37b11011e2f8" />
